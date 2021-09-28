@@ -5,6 +5,8 @@ Formation OpenClassrooms - Parcours data scientist - Projet n°4 - Anticipez les
 
 La ville de Seattle souhaite atteindre son objectif de ville neutre en émissions de carbone en 2050, et s’intéresse de près aux émissions des bâtiments non destinés à l’habitation.
 
+![P4_Seattle](https://user-images.githubusercontent.com/71518818/135107824-5ce0b80d-7a06-4398-afc4-fbbca374072c.png)
+
 ## Les données
 Les données sont accessibles : 
 - [Jeu de données](https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv)
