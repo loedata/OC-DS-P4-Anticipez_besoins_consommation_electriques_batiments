@@ -3,8 +3,6 @@ Formation OpenClassrooms - Parcours data scientist - Projet n°4 - Anticipez les
 
 ## Prévision des besoins électriques et des émissions de CO2 de bâtiments 
 
-![P4](https://user-images.githubusercontent.com/71134226/117352178-f69da080-aeae-11eb-8610-aa0d9ecbb659.gif)
-
 La ville de Seattle souhaite atteindre son objectif de ville neutre en émissions de carbone en 2050, et s’intéresse de près aux émissions des bâtiments non destinés à l’habitation.
 
 ## Les données
