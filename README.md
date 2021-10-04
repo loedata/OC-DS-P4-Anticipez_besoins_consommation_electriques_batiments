@@ -7,11 +7,15 @@ La ville de Seattle souhaite atteindre son objectif de ville neutre en émission
 
 ![P4_Seattle](https://user-images.githubusercontent.com/71518818/135107824-5ce0b80d-7a06-4398-afc4-fbbca374072c.png)
 
-## Les données
+## Source
 Les données sont accessibles : 
 - [Jeu de données](https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv)
 - [Description des variables 2015](https://data.seattle.gov/dataset/2015-Building-Energy-Benchmarking/h7rm-fz6m)
 - [Description des variables 2016](https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy)
+
+## Boîte à outils
+
+![P5_outils](https://user-images.githubusercontent.com/71518818/135888118-2d18a911-8f9a-4537-896e-49320b52443c.png)
 
 ## Problématique de la ville de Seattle
 Des relevés minutieux ont été effectués en 2015 et en 2016. Cependant, ces relevés sont coûteux à obtenir, et à partir de ceux déjà réalisés, la mission consiste à prédire les émissions de CO2 et la consommation totale d’énergie de bâtiments pour lesquels elles n’ont pas encore été mesurées.
@@ -67,4 +71,15 @@ Une évaluation de l’intérêt de l’"**[Energy Star Score](https://www.energ
     - intérêt de l'Energy Star Score?
 ![P4_ESS](https://user-images.githubusercontent.com/71518818/135104954-7e7117ea-14dc-49a4-9ba4-9274fe348d91.png)
 
+## Compétences
+- Transformer les variables pertinentes d'un modèle d'apprentissage supervisé.
+- Régression linéaire, ridge, lasso, elasticnet, SVR, decision trees, random forest, extra trees, xgboost, lightgbm, catboost, pycaret.
+- Mettre en place le modèle d'apprentissage supervisé adapté au problème métier.
+- Évaluer les performances d’un modèle d'apprentissage supervisé.
+- Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de l'améliorer.
+
+## Évaluation
+
+![P4_eval_1](https://user-images.githubusercontent.com/71518818/135888558-5131a37e-6d7b-41e6-9c93-4f63a0722f65.png)
+![P4_eval_2](https://user-images.githubusercontent.com/71518818/135888601-373c4269-1ccb-4a8c-9e35-5536f615e67c.png)
 
